@@ -1,4 +1,4 @@
-# Buffer-demo
+# stream-demo
 
 yarn
 //OR
